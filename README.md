@@ -99,9 +99,10 @@ Secure web-based voting platform with authentication and vote management.
   &nbsp;
   <a href="mailto:kapilkumawat7023@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://www.linkedin.com/in/kapil-kumawat-368a3132a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="URL"><img src="https://skillicons.dev/icons?i=vercel"/></a>
 </p>
 
-<a href="URL"><img src="https://skillicons.dev/icons?i=vercel"/></a>
+
 
 <br>
 
