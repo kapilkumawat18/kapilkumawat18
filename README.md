@@ -98,7 +98,9 @@ Secure web-based voting platform with authentication and vote management.
   <a href="https://github.com/kapilkumawat18"><img src="https://skillicons.dev/icons?i=github"/></a>
   &nbsp;
   <a href="mailto:kapilkumawat7023@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/kapil-kumawat-368a3132a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  &nbsp;
   <a href="URL"><img src="https://skillicons.dev/icons?i=vercel"/></a>
 </p>
 
