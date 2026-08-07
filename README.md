@@ -61,7 +61,7 @@ Secure web-based voting platform with authentication and vote management.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kapilkumawat18&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-ten-delta-60.vercel.app/api?username=kapilkumawat18&show_icons=true&theme=tokyonight&hide_border=true"/>
   &nbsp;&nbsp;
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilkumawat18&theme=tokyonight&hide_border=true"/>
 </p>
@@ -69,19 +69,13 @@ Secure web-based voting platform with authentication and vote management.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapilkumawat18&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats-ten-delta-60.vercel.app/api/top-langs/?username=kapilkumawat18&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kapilkumawat18&theme=tokyo-night" width="90%"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kapilkumawat18&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 <br>
@@ -99,12 +93,12 @@ Secure web-based voting platform with authentication and vote management.
   &nbsp;
   <a href="mailto:kapilkumawat7023@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/kapil-kumawat-368a3132a?utm_source=share_via&utm_content=profile&utm_medium=member_ios"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/kapil-kumawat-368a3132a"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <!-- Add your portfolio link once it's deployed:
   &nbsp;
-  <a href="URL"><img src="https://skillicons.dev/icons?i=vercel"/></a>
+  <a href="https://your-portfolio-url.com"><img src="https://skillicons.dev/icons?i=vercel"/></a>
+  -->
 </p>
-
-
 
 <br>
 
