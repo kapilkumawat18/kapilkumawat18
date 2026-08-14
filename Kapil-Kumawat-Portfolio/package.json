@@ -1,0 +1,21 @@
+{
+  "name": "kapil-kumawat-portfolio",
+  "version": "1.0.0",
+  "description": "Kapil Kumawat's Portfolio - B.Tech AI/ML Student & Software Developer",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "portfolio",
+    "AI/ML",
+    "software-developer"
+  ],
+  "author": "Kapil Kumawat",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
