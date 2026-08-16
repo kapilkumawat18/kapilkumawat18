@@ -3,9 +3,7 @@
  * This module initializes Web Analytics for user tracking
  */
 
-import { inject } from './node_modules/@vercel/analytics/dist/index.mjs';
+import { inject } from '@vercel/analytics';
 
 // Initialize Web Analytics
-inject({
-  debug: false
-});
+inject();

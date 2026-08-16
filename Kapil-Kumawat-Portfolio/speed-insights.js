@@ -3,9 +3,7 @@
  * This module initializes Speed Insights for performance monitoring
  */
 
-import { injectSpeedInsights } from './node_modules/@vercel/speed-insights/dist/index.mjs';
+import { injectSpeedInsights } from '@vercel/speed-insights';
 
 // Initialize Speed Insights
-injectSpeedInsights({
-  debug: false
-});
+injectSpeedInsights();
