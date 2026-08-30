@@ -66,8 +66,6 @@ Secure web-based voting platform with authentication and vote management.
 
 <br>
 
-<br>
-
 ## 🎯 2026 Goals
 
 `500+ DSA Problems`&nbsp; `10+ Projects`&nbsp; `AI/ML Certifications`&nbsp; `SDE Internship`&nbsp; `Cloud Basics`&nbsp; `Open Source`
