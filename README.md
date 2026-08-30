@@ -61,22 +61,10 @@ Secure web-based voting platform with authentication and vote management.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-khaki-eight-77.vercel.app/api?username=kapilkumawat18&show_icons=true&theme=tokyonight&hide_border=true"/>
-  &nbsp;&nbsp;
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilkumawat18&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats-khaki-eight-77.vercel.app/api/top-langs/?username=kapilkumawat18&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats-khaki-eight-77.vercel.app/graph?username=kapilkumawat18&theme=tokyo-night" width="90%"/>
-</p>
 
 <br>
 
