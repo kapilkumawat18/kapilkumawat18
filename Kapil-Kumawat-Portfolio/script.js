@@ -24,7 +24,9 @@
       description: 'An online learning platform designed to provide users with an organized digital learning experience.',
       tech: ['HTML', 'CSS', 'Java', 'MySQL'],
       features: ['Learning content organization', 'User learning experience', 'Structured course flow', 'Additional features to be documented'],
-      learning: '[ADD WHAT YOU LEARNED]'
+      learning: '[ADD WHAT YOU LEARNED]',
+      github: 'https://github.com/YOUR_USERNAME/YOUR_REPOSITORY',
+      demo: 'https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/'
     },
     voting: {
       type: 'WEB APPLICATION',
@@ -32,23 +34,37 @@
       description: 'A web-based platform designed to enable online voting with structured data management.',
       tech: ['HTML', 'CSS', 'Python', 'MySQL'],
       features: ['Voting workflow', 'Database-backed data management', 'User interface', 'Voting records'],
-      learning: 'Working with a Python backend, structured data storage and a web interface.'
+      learning: 'Working with a Python backend, structured data storage and a web interface.',
+      github: 'https://github.com/kapilkumawat18/Online_Voting_System',
+      demo: 'https://secure-vote-285s.onrender.com/'
     },
-    bike: {
-      type: 'SOFTWARE / MANAGEMENT',
-      title: 'Bike Management System',
-      description: 'A management system for product information, sales, billing and sales statistics.',
-      tech: ['HTML', 'CSS', 'C', 'Supabase / MySQL'],
-      features: ['Product information management', 'Billing', 'Sales management', 'Sales statistics', 'Database integration'],
-      learning: 'Connecting application logic, data management and practical business workflows.'
+    
+    'kk-group': {
+      type: 'WEB DEVELOPMENT',
+      title: 'Chandan Tiles',
+      description: 'A business website created to present the company online, showcase its offerings and make it easier for visitors to explore the business.',
+      tech: ['HTML', 'CSS', 'JavaScript', 'Responsive Design'],
+      features: [
+        'Business information and presentation',
+        'Clear website navigation',
+        'Responsive user interface',
+        'Online business presence',
+        'Easy access to business information'
+      ],
+      learning: 'Practised website development, responsive design, content organization and creating a professional online presence for a business.',
+      github: '',
+      demo: 'https://kkgrouprajasthan.in'
     },
+
     music: {
       type: 'SOFTWARE / APPLICATION',
       title: 'Music Player',
       description: 'A music player application designed around a clean interface for playing and managing music.',
       tech: ['HTML', 'CSS', 'Java', 'MySQL'],
       features: ['Music playback interface', 'Music management', 'Additional features to be documented'],
-      learning: '[ADD WHAT YOU LEARNED]'
+      learning: '[ADD WHAT YOU LEARNED]',
+      github: 'https://github.com/YOUR_USERNAME/YOUR_REPOSITORY',
+      demo: 'https://YOUR_USERNAME.github.io/YOUR_REPOSITORY/'
     }
   };
 
@@ -159,7 +175,7 @@
       if (localStorage.getItem('kapil-theme') === 'light') {
         document.documentElement.classList.add('light');
       }
-    } catch (_) {}
+    } catch (_) { }
 
     if (!themeButton) return;
 
@@ -167,7 +183,7 @@
       const light = document.documentElement.classList.toggle('light');
       try {
         localStorage.setItem('kapil-theme', light ? 'light' : 'dark');
-      } catch (_) {}
+      } catch (_) { }
     });
   })();
 
@@ -268,6 +284,20 @@
       }
 
       if (modalLearning) modalLearning.textContent = project.learning;
+
+      const githubButton = $('#modalGithub');
+      const demoButton = $('#modalDemo');
+
+      if (githubButton) {
+        githubButton.href = project.github || '#';
+        githubButton.style.display = project.github ? '' : 'none';
+      }
+
+      if (demoButton) {
+        demoButton.href = project.demo || '#';
+        demoButton.style.display = project.demo ? '' : 'none';
+      }
+
 
       modal.classList.add('show');
       modal.setAttribute('aria-hidden', 'false');
@@ -393,7 +423,7 @@
 
         try {
           data = await response.json();
-        } catch (_) {}
+        } catch (_) { }
 
         console.log('Formspree response:', data);
 
